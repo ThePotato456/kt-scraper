@@ -1,0 +1,45 @@
+[2025-05-12 21:30:01.730367] Fetching events...
+Found 200 new event(s). Sending to Discord...
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+✅ Discord alert sent.
+[2025-05-12 21:42:13.455857] Fetching events...
+No new events found.
+[2025-05-12 21:43:04.895493] Fetching events...
+No new events found.
+✅ No events alert sent.
+[2025-05-12 21:47:34.702092] Fetching events...
+No new events found.
+✅ No events alert sent.
+[2025-05-13 00:00:01.681366] Fetching events...
+Found 2 new event(s). Sending to Discord...
+✅ Discord alert sent.
+[2025-05-13 17:04:02.927411] Fetching events...
+Found 8 new event(s). Sending to Discord...
+✅ Discord alert sent.
+✅ Discord alert sent.

@@ -1,0 +1,2886 @@
+[
+  {
+    "id": "83daf6d90c30db659154693d7356fcbbd03a828dc7ec73ec240f7b95107f4ad3",
+    "date": "Tuesday, May 13",
+    "title": "Joe Rogan and Friends",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/111811"
+  },
+  {
+    "id": "69738e8700c045e5f6e5349199670ff097fb66120379acc60b8f6f48385e51fd",
+    "date": "Tuesday, May 13",
+    "title": "Bottom of The Barrel",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109238"
+  },
+  {
+    "id": "f7f396b5e3b7d9299b728ff206015e05f3c49fb55c8d30fb262d2c2b32e28497",
+    "date": "Tuesday, May 13",
+    "title": "Ron White and Friends",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/111778"
+  },
+  {
+    "id": "da6bc4778bef61cbffaf63c1fb4967636ab6f7f589a80961ea62273441da464a",
+    "date": "Tuesday, May 13",
+    "title": "Bottom of The Barrel",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109239"
+  },
+  {
+    "id": "c8417487118a78a921efc77091d6496e1cf75c68e1f550553548204e6dab2ad4",
+    "date": "Wednesday, May 14",
+    "title": "Joe Rogan and Friends",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/111812"
+  },
+  {
+    "id": "8bf678633dc66230a86c985b2d5bfc847eb150e54fb7eba936b41b741e3f0533",
+    "date": "Wednesday, May 14",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109200"
+  },
+  {
+    "id": "a268650c28a58cea5a574db4aad6415e1c3edf0a59599f16a2916ef6eaf96373",
+    "date": "Wednesday, May 14",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109231"
+  },
+  {
+    "id": "607cd0929d1306121ca20529bf08c7381a701ebf104e4582c48ba19b0e2bc42b",
+    "date": "Wednesday, May 14",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109201"
+  },
+  {
+    "id": "5bd7a3ed5fca4c72b5ab8219f1df3cc1d3d78de879eaecffcfbddfe1fadcd163",
+    "date": "Thursday, May 15",
+    "title": "Ron White and Friends",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/111779"
+  },
+  {
+    "id": "9a168863f1424b21c559f7689f2ed8048ab6736281c765bc190f7d7e6c136a87",
+    "date": "Thursday, May 15",
+    "title": "Christina P and Friends",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/111528"
+  },
+  {
+    "id": "fd32ad72e49501d416465f61bc3f65fe71587a6120b2d87382b040b409adff65",
+    "date": "Thursday, May 15",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109343"
+  },
+  {
+    "id": "55af117541ff71421db01a66e631d852ade93fd7212050375ee62d818b389cfd",
+    "date": "Thursday, May 15",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109203"
+  },
+  {
+    "id": "3a91e34252b35c870b14ea3f67272d54e681a67cf82bdb64711e879265096d23",
+    "date": "Friday, May 16",
+    "title": "Sam Jay",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/105519"
+  },
+  {
+    "id": "5ff019c38fc059d393d98d851129726c59536c05a03934f9a376b7c04be6b1bf",
+    "date": "Friday, May 16",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109204"
+  },
+  {
+    "id": "24bfea21aa9024d98e0a066a52dd2a12d58492e280c5a5c3806cb75e5ccfa1c6",
+    "date": "Friday, May 16",
+    "title": "Sam Jay",
+    "time": "10:00 PM - 11:45 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/105520"
+  },
+  {
+    "id": "1c3ca65d7b9b71d6ac133a0ccd32b2fdbb06627e26298864b39dbe50c27cf836",
+    "date": "Friday, May 16",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109205"
+  },
+  {
+    "id": "f3e0794d2148c202214cf680b1ed9ad484ce58857b8985b4e86d5e7c4055ae6e",
+    "date": "Saturday, May 17",
+    "title": "Sam Jay",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/105521"
+  },
+  {
+    "id": "6be262ee94afe3c75c3262090607a5709c407065559369b9cae92c3191d436b7",
+    "date": "Saturday, May 17",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109206"
+  },
+  {
+    "id": "4f8a916e0955f1707c1baf610813534e16484e9d0acd3c69c341e1e1e2c14154",
+    "date": "Saturday, May 17",
+    "title": "Sam Jay",
+    "time": "10:00 PM - 11:45 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/105522"
+  },
+  {
+    "id": "985e7ba3ccfc5bbccbcbcf906c71fce1bb2ab0444684600d4fbe8215f882a95a",
+    "date": "Saturday, May 17",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109207"
+  },
+  {
+    "id": "40cc9b77b78e0f9332afd1f2f7fd2be02ed9dbb747bcb64b34712ddca5d6cd92",
+    "date": "Sunday, May 18",
+    "title": "Comedy Mothership Showcase",
+    "time": "5:30 PM - 7:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109208"
+  },
+  {
+    "id": "48239721e328cb115af3ab516786fee89536b7b876169fae1ede99c76e8c081c",
+    "date": "Sunday, May 18",
+    "title": "Sam Jay",
+    "time": "8:00 PM - 10:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/105523"
+  },
+  {
+    "id": "a49c61fd860d4e06f4c34b56e7b21e2581223161597714f23a9d5effd6ef614a",
+    "date": "Sunday, May 18",
+    "title": "Comedy Mothership Showcase",
+    "time": "8:30 PM - 10:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109209"
+  },
+  {
+    "id": "42fa53790c8818280ce500a84c6652ab75ab5547f0176369cc0c97109fd45be4",
+    "date": "Monday, May 19",
+    "title": "Mothership Open Mic And Crew Show",
+    "time": "7:00 PM - 11:00 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109246"
+  },
+  {
+    "id": "6a30be914fc6066100dcb3f502d6ba24ca40224daae50491de46ff83692d465c",
+    "date": "Monday, May 19",
+    "title": "Kill Tony",
+    "time": "8:00 PM - 10:30 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "In order to sign-up for the chance to perform on Kill Tony, you must have a valid form of photo ID and 60 seconds of pre...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/111046"
+  },
+  {
+    "id": "7c21a432b072629299d8267983aa178451dd841ec50c6ce45a3503cf464f5d61",
+    "date": "Tuesday, May 20",
+    "title": "Bottom of The Barrel",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109240"
+  },
+  {
+    "id": "e7378618b6d33784a6dc97f58b2610b1a43441711b02b93f37e8400f1cc8ea68",
+    "date": "Tuesday, May 20",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109232"
+  },
+  {
+    "id": "a8751b3875e745ef0cc1ff61ddadeded6e5c4dbda9566a218f3c25008c90e03d",
+    "date": "Tuesday, May 20",
+    "title": "Bottom of The Barrel",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109241"
+  },
+  {
+    "id": "d82131c71cd05f5b898c1214bc0f852dca8ff2b2bff2a7b4045bdd3bdb2cd206",
+    "date": "Wednesday, May 21",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109210"
+  },
+  {
+    "id": "03f877be92ed0f06d89b47ce8cf02a0d0cc022bbeb2e5ab00bf6de9cb46b2988",
+    "date": "Wednesday, May 21",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109233"
+  },
+  {
+    "id": "b942942062d7383a33c7a9b8437d4d3750ba8ba441637a0b64839a9f801871f5",
+    "date": "Wednesday, May 21",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:00 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109211"
+  },
+  {
+    "id": "acea51933da569a37ce9a242e5fc2d9446759c9f646c256437c475ba8f8e899d",
+    "date": "Thursday, May 22",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109212"
+  },
+  {
+    "id": "0b280a736304550353405a804bc2b9826a9833c307decc4c68d4e3f844398f3c",
+    "date": "Thursday, May 22",
+    "title": "Pauly Shore and Friends",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111681"
+  },
+  {
+    "id": "47a7a12bc06ff31e5713c91552c5d1326a2bbbffc269c1dc62f574df618c4206",
+    "date": "Thursday, May 22",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109213"
+  },
+  {
+    "id": "001ec9f9dde9abf7906ed1bf9495844df4f79b6ce97bfde19e13491bce5cf557",
+    "date": "Friday, May 23",
+    "title": "Colin Quinn",
+    "time": "6:00 PM - 7:30 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/105524"
+  },
+  {
+    "id": "88787a24f802a4554d904060a9c7ee45a5324b7fbf1c68090bcf634d3700e4d7",
+    "date": "Friday, May 23",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109214"
+  },
+  {
+    "id": "294fe7b8b75ea7df0ef55f16a82f1f05263e9790ca7cebfc9daf81d192251f15",
+    "date": "Friday, May 23",
+    "title": "Colin Quinn",
+    "time": "8:30 PM - 10:30 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/105525"
+  },
+  {
+    "id": "9677d8ad9143a07dee79dde2bcbd584921ed6de8b4f5aaa871a1686745b0babf",
+    "date": "Friday, May 23",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109215"
+  },
+  {
+    "id": "4b06ec101cbcae85dfe87e719eb2823864026ba9fd8e34f603e406a87fe0adfd",
+    "date": "Saturday, May 24",
+    "title": "Colin Quinn",
+    "time": "6:00 PM - 7:30 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/105526"
+  },
+  {
+    "id": "148df9eb05598c652ad41af114604bdece65bc5aafb9198add524e9994bd0ce2",
+    "date": "Saturday, May 24",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109216"
+  },
+  {
+    "id": "0570d3b2abf62b54636f99998a15a20386da176b098483ba2b7ba0eef6a9c472",
+    "date": "Saturday, May 24",
+    "title": "Colin Quinn",
+    "time": "8:30 PM - 10:30 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/105527"
+  },
+  {
+    "id": "7369869265c2b4e24a104a70a0805f0d35e0155f1e2cc6fd6f511589f9bf9601",
+    "date": "Saturday, May 24",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109217"
+  },
+  {
+    "id": "a75f308093deb960e388316b519c13afb3c19dbfe96d8d96837906550bedaa77",
+    "date": "Sunday, May 25",
+    "title": "Comedy Mothership Showcase",
+    "time": "5:30 PM - 7:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109218"
+  },
+  {
+    "id": "b200ac7303e31aad7a2716a993ce5771c70197c44b38fae605be45a8ca21e32c",
+    "date": "Sunday, May 25",
+    "title": "Colin Quinn",
+    "time": "8:00 PM - 10:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/105528"
+  },
+  {
+    "id": "2f0371a0c4bfb429a57a88dd1bab0151e1b1deca9c053d6295e089a607501d7b",
+    "date": "Sunday, May 25",
+    "title": "Comedy Mothership Showcase",
+    "time": "8:30 PM - 10:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109219"
+  },
+  {
+    "id": "338a97fb468cfbb0f3ae3d884dc213f5a40d7530d13ae524e0db57421726e66d",
+    "date": "Monday, May 26",
+    "title": "Mothership Open Mic And Crew Show",
+    "time": "7:00 PM - 11:00 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109247"
+  },
+  {
+    "id": "db5e2925ee8a83c8426772323575d46ddfe32e0b863c41573f15141931b92ae8",
+    "date": "Monday, May 26",
+    "title": "Kill Tony",
+    "time": "8:00 PM - 10:30 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "In order to sign-up for the chance to perform on Kill Tony, you must have a valid form of photo ID and 60 seconds of pre...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/111047"
+  },
+  {
+    "id": "a2c7ddf29c88e5819b28f64bf633f7f3afaa472dbd4c51a9de4d2491d46b450c",
+    "date": "Tuesday, May 27",
+    "title": "Bottom of The Barrel",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109242"
+  },
+  {
+    "id": "27762568d738c3c7ff5b6b67d387851107cbbadf130a6228adfb252d186a74c7",
+    "date": "Tuesday, May 27",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109234"
+  },
+  {
+    "id": "35f335dbb7e53c273fca10bccdaa1b8c055eb1f332faa03f5f4f1903d62783ca",
+    "date": "Tuesday, May 27",
+    "title": "Bottom of The Barrel",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109243"
+  },
+  {
+    "id": "08dd56ff34698095897ba9e5a93c1e9ba562d65a84042dbff24aa8157893e06a",
+    "date": "Wednesday, May 28",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109220"
+  },
+  {
+    "id": "95011f0968fa112948ce3c79f5219101d37f14b30f8123372bce2184cf0c52b2",
+    "date": "Wednesday, May 28",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109235"
+  },
+  {
+    "id": "5437aa4eb263593095852d2500599276d71f1a1e0d8f73ce235c586aad753b92",
+    "date": "Wednesday, May 28",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109221"
+  },
+  {
+    "id": "a686337b81d474d4366207e9374bc6150f7e05681e51fa772e7b59d5ab949687",
+    "date": "Thursday, May 29",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109222"
+  },
+  {
+    "id": "af37e03b1f06ac8695bcbd584a92d1115bd8073dd8f4c2f8340f50caf8b8c5da",
+    "date": "Thursday, May 29",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109345"
+  },
+  {
+    "id": "f19800c2b6ffc5d48fd4351669df1e9ebf792ef7edd32c68c6aecea96a7b60f2",
+    "date": "Thursday, May 29",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109223"
+  },
+  {
+    "id": "6a677a3fa4d257d57c4d6059cc729abba87b16f1124e4b67f1133b7f768bb74b",
+    "date": "Friday, May 30",
+    "title": "Rachel Feinstein",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/105529"
+  },
+  {
+    "id": "dfa3cd4e454f82620e3e38397480424100fa063074305f394ebe05690c12eea1",
+    "date": "Friday, May 30",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109224"
+  },
+  {
+    "id": "9bd8fef15332516682e8d17275976e00d0e71c42b3699259edb2e6a1dca94a7b",
+    "date": "Friday, May 30",
+    "title": "Rachel Feinstein",
+    "time": "10:00 PM - 11:45 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/105530"
+  },
+  {
+    "id": "24efcb1124e03834657d83ece1f5b32f812f3835257e1455df74096f8d3e9fe5",
+    "date": "Friday, May 30",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109225"
+  },
+  {
+    "id": "3687186ab1efe9237932e4422a886ff58753e72fae074d4f101f569767b9a91b",
+    "date": "Saturday, May 31",
+    "title": "Rachel Feinstein",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/105531"
+  },
+  {
+    "id": "35737dadd1a6328b3b2b5373bed598db6a887575219cae376ea2c56c023c3410",
+    "date": "Saturday, May 31",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109226"
+  },
+  {
+    "id": "e9b0f41cc92fef762326e87dd5d3773f88dece262d5e9d49cb981ce0ea714400",
+    "date": "Saturday, May 31",
+    "title": "Rachel Feinstein",
+    "time": "10:00 PM - 11:40 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/105532"
+  },
+  {
+    "id": "42185d17263837acfc11574f3798bec8013756b231e39b5344dad3cf9d49f867",
+    "date": "Saturday, May 31",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/109227"
+  },
+  {
+    "id": "d6462161513815083c089e31aaef94dc45aef7a45434da3585fbdec00042d5ca",
+    "date": "Sunday, Jun 1",
+    "title": "Comedy Mothership Showcase",
+    "time": "5:30 PM - 7:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111383"
+  },
+  {
+    "id": "d6462161513815083c089e31aaef94dc45aef7a45434da3585fbdec00042d5ca",
+    "date": "Sunday, Jun 1",
+    "title": "Comedy Mothership Showcase",
+    "time": "5:30 PM - 7:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109248"
+  },
+  {
+    "id": "8eed5a375dfa158d9e48b52c07498fbbb25f07e1e5369e9ba70d4df9568209b0",
+    "date": "Sunday, Jun 1",
+    "title": "Rachel Feinstein",
+    "time": "8:00 PM - 10:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/105533"
+  },
+  {
+    "id": "d420bb718f150af80951b7dfdb6b2a42ed786106b92175e2d15673e78d0cfe40",
+    "date": "Sunday, Jun 1",
+    "title": "Comedy Mothership Showcase",
+    "time": "8:30 PM - 10:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111384"
+  },
+  {
+    "id": "d420bb718f150af80951b7dfdb6b2a42ed786106b92175e2d15673e78d0cfe40",
+    "date": "Sunday, Jun 1",
+    "title": "Comedy Mothership Showcase",
+    "time": "8:30 PM - 10:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109249"
+  },
+  {
+    "id": "1de4a6085daeb2a2fcc4739249c012b329e99bf461b8f9911b4ab93f959853ad",
+    "date": "Monday, Jun 2",
+    "title": "Mothership Open Mic And Crew Show",
+    "time": "7:00 PM - 11:00 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111326"
+  },
+  {
+    "id": "e7d9cfaac6d6b6f25af068100931287b66c8ea53a80c78cd9dfa55efa91f32ae",
+    "date": "Monday, Jun 2",
+    "title": "Kill Tony",
+    "time": "8:00 PM - 10:30 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "In order to sign-up for the chance to perform on Kill Tony, you must have a valid form of photo ID and 60 seconds of pre...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/111048"
+  },
+  {
+    "id": "643756ab54f10fd7b7eabbd648e77f8f552168b4694665a7899425ff001eda13",
+    "date": "Tuesday, Jun 3",
+    "title": "Bottom of The Barrel",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111331"
+  },
+  {
+    "id": "3ffe501694d6775f82b7e485c439f7ea032e7bf8dc379d9d1dbe6a99ec5f42cf",
+    "date": "Tuesday, Jun 3",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111339"
+  },
+  {
+    "id": "789e61eb3c93d0febb6980e1ca698a703763c6553c1c374c9944931b60f26a72",
+    "date": "Tuesday, Jun 3",
+    "title": "Bottom of The Barrel",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111332"
+  },
+  {
+    "id": "f92dc00c479873db0b3bba52ba1af70fb65f6b6b2d5eb7f88daf8c705beb9ec6",
+    "date": "Wednesday, Jun 4",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111351"
+  },
+  {
+    "id": "b9183e00bfa1334e25463f1eafb9f3a2389b4ac6f26201226cb09f4aed15bf8c",
+    "date": "Wednesday, Jun 4",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111343"
+  },
+  {
+    "id": "c0e5df0b2ed60e3a231ed937d3744ccd0ac62c66961dbffd4f20fd28473c8100",
+    "date": "Wednesday, Jun 4",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111352"
+  },
+  {
+    "id": "a33acf1a459bc40c00d7a3b5ddb4b04d7ab5965716aec8db0b20ef86df4fe734",
+    "date": "Thursday, Jun 5",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111359"
+  },
+  {
+    "id": "a1f5e46da81d67e99ecbe8bf57c3d3a5d4bc05f74d7b7c3a51bc3217c639815d",
+    "date": "Thursday, Jun 5",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111347"
+  },
+  {
+    "id": "e62803903128abdba0483f7b5b1dea0e77cda5468196706667a90dd4f71ed6d5",
+    "date": "Thursday, Jun 5",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111360"
+  },
+  {
+    "id": "9e1fc843708269af119952dda6f1e5f774ed92f4fa2db74244044f8da9436969",
+    "date": "Friday, Jun 6",
+    "title": "Duncan Trussell",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/108694"
+  },
+  {
+    "id": "1565361e5a236b7a75450f9246dd381590d9cafcff0cb61045bf28ec0416527c",
+    "date": "Friday, Jun 6",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111367"
+  },
+  {
+    "id": "e34cbb742bb7f870983f9eb22ea82bfc391c84e9ee72fbac453eef70fc91f964",
+    "date": "Friday, Jun 6",
+    "title": "Duncan Trussell",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108695"
+  },
+  {
+    "id": "b5c0347285cdb80059fac1042fc70543890d7d95d6cb5dbf37cf4d1001cab0e8",
+    "date": "Friday, Jun 6",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111368"
+  },
+  {
+    "id": "25a6487d4f30634ba601cfc4cf96085f80976e54e94370206312b9e1c0d6c390",
+    "date": "Saturday, Jun 7",
+    "title": "Duncan Trussell",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108696"
+  },
+  {
+    "id": "1f7a6306135830493dc877507a75dcae1098f0d38bd09404db62947f9036ba3a",
+    "date": "Saturday, Jun 7",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111375"
+  },
+  {
+    "id": "5e89860c8d89d4815024927fce9bc4bd5ce9546b057245e9f2bf035c9ba57b92",
+    "date": "Saturday, Jun 7",
+    "title": "Duncan Trussell",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108697"
+  },
+  {
+    "id": "5e8befcc8043771fadbf7ece7c586a84ba831bab87426ce091e6b090fc0e4fcd",
+    "date": "Saturday, Jun 7",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111376"
+  },
+  {
+    "id": "6deb566c3791184f1ecf346a2b953f8a1787b946a97c457897fecefefe491221",
+    "date": "Sunday, Jun 8",
+    "title": "Comedy Mothership Showcase",
+    "time": "5:30 PM - 7:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111385"
+  },
+  {
+    "id": "50275956ce9de0e96b053d87ee6d0aec9cd330e65defd7bbeb74fec54b7b36e5",
+    "date": "Sunday, Jun 8",
+    "title": "Duncan Trussell",
+    "time": "8:00 PM - 10:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108698"
+  },
+  {
+    "id": "995b66bf13428857bc3ab2e80914bbed79acb25006a96a7eef1108196687b06b",
+    "date": "Sunday, Jun 8",
+    "title": "Comedy Mothership Showcase",
+    "time": "8:30 PM - 10:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111386"
+  },
+  {
+    "id": "7e802e49b17b16bc8fa4e879432c62158aae55ae4489c1743a8ecbe41acc0804",
+    "date": "Monday, Jun 9",
+    "title": "Mothership Open Mic And Crew Show",
+    "time": "7:00 PM - 11:00 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111327"
+  },
+  {
+    "id": "32726d42a5ffc8a59a63d21ced724ea43a3dfa0cf241ddfdaadddf2f4a1b47be",
+    "date": "Monday, Jun 9",
+    "title": "The Best Of Comedy Mothership",
+    "time": "8:00 PM - 10:30 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111054"
+  },
+  {
+    "id": "cc96045efa7185aa7a0049192cb6629880e29dadc7e2f8d48a2512efb6a8fd90",
+    "date": "Tuesday, Jun 10",
+    "title": "Bottom of The Barrel",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111333"
+  },
+  {
+    "id": "f24cc110ea42389c994fa5f242dc5b2a37c28cce4fd24edf66f7b4908b63e20e",
+    "date": "Tuesday, Jun 10",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111340"
+  },
+  {
+    "id": "6922e3c4354455684391ac05376ac409a0e697b394de41f2d3cef94cc131cdfa",
+    "date": "Tuesday, Jun 10",
+    "title": "Bottom of The Barrel",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111334"
+  },
+  {
+    "id": "21c033018fec31874906dfa27cecbdb8d69399fbf0b736cf336ae882dc103d29",
+    "date": "Wednesday, Jun 11",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111353"
+  },
+  {
+    "id": "cbc5523f637ce713b00821d97cddb6f0a044781a53f50c7de7a18b3965a7213b",
+    "date": "Wednesday, Jun 11",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111344"
+  },
+  {
+    "id": "b985946a23939f03734c49937e65cf7182e65d2d0561ec123c749a2a85abfbe3",
+    "date": "Wednesday, Jun 11",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111354"
+  },
+  {
+    "id": "51fc31e7e5319e6db495860ad8857e577470769b2bdbf5a34d082f0a09e9dac4",
+    "date": "Thursday, Jun 12",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111361"
+  },
+  {
+    "id": "6d6514bde960666a83a41c042f2f02c1fd0979620beb1f4cba12f5054c3e3171",
+    "date": "Thursday, Jun 12",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111348"
+  },
+  {
+    "id": "685da8429204132718096db6505501d4210a2b89c8df3729698bd1fccb0bcacf",
+    "date": "Thursday, Jun 12",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111362"
+  },
+  {
+    "id": "a107d0f4782f4336fc06545f554f4f203fda26a0eb4a077ce0a5e7d075082ec6",
+    "date": "Friday, Jun 13",
+    "title": "Oliver Anthony Benefit Concert for the Austin Humane Society",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION This is a Benefit concert. Not a regular stand up show! Ticket proceeds go to the Austin Humane Society 100% o...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109535"
+  },
+  {
+    "id": "38090cf26ed2723b978d9dfd26516b380aaab9f87af8d7e350f6219343f932cb",
+    "date": "Friday, Jun 13",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111369"
+  },
+  {
+    "id": "9bd566e1aeb902ccbab079e370db2787ef9cda92c42e253ed8d0cdf2c7f334e7",
+    "date": "Friday, Jun 13",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111370"
+  },
+  {
+    "id": "34eea11ddc7e41a8e94b4b247a458bafab7f3c6191fa01164d4ae85b829f2def",
+    "date": "Saturday, Jun 14",
+    "title": "Oliver Anthony Benefit Concert for the Austin Humane Society",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION This is a Benefit concert. Not a regular stand up show! Ticket proceeds go to the Austin Humane Society 100% o...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/109536"
+  },
+  {
+    "id": "2ac93ae71700e68299f192b9b9c68b843a8ae50352e740bf408967c60bbd6d5e",
+    "date": "Saturday, Jun 14",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111377"
+  },
+  {
+    "id": "17832a6d812029a5139afde42f552d02a4380fe78fa34311ebc5d5f3b9249caa",
+    "date": "Saturday, Jun 14",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111378"
+  },
+  {
+    "id": "eca6707bc9bb011ec73369071ebd0eec7142ecf96a1058327d0b36e24eb7d5d0",
+    "date": "Sunday, Jun 15",
+    "title": "Roast Battle",
+    "time": "5:00 PM - 7:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108987"
+  },
+  {
+    "id": "95d349abea2091ec2a530e5777bde550c4b8b226bb5711df782f4e1494abbe20",
+    "date": "Sunday, Jun 15",
+    "title": "Comedy Mothership Showcase",
+    "time": "5:30 PM - 7:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111387"
+  },
+  {
+    "id": "b4b6d8cf2b66fef97363a95b5a425bc63823701a09548da7a8ec53972f121c7f",
+    "date": "Sunday, Jun 15",
+    "title": "Roast Battle",
+    "time": "8:00 PM - 10:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111711"
+  },
+  {
+    "id": "ac803f322a8b0c2859c8d56b3fbbe8190318a05cdea074d3d5e014259a7ee983",
+    "date": "Sunday, Jun 15",
+    "title": "Comedy Mothership Showcase",
+    "time": "8:30 PM - 10:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111388"
+  },
+  {
+    "id": "17456827801ec17e3ba981f0ba93bdd0c2c57d4341f4597b6d9f3d39016e0089",
+    "date": "Monday, Jun 16",
+    "title": "Mothership Open Mic And Crew Show",
+    "time": "7:00 PM - 11:00 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111328"
+  },
+  {
+    "id": "8708d5513cbffc907901792768111ffe08efb67bca7590f945ede8dda39e319c",
+    "date": "Monday, Jun 16",
+    "title": "The Best Of Comedy Mothership",
+    "time": "8:00 PM - 10:30 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111055"
+  },
+  {
+    "id": "7a81336fc725279b1da7bc16bbe79b8341cea44c5dc52580b15ddf2a926a7013",
+    "date": "Tuesday, Jun 17",
+    "title": "Bottom of The Barrel",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111335"
+  },
+  {
+    "id": "b59acedb8717d4a21b8f647137a8e60716c7f3575f7f2d220cc6f8938d76f4b2",
+    "date": "Tuesday, Jun 17",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111341"
+  },
+  {
+    "id": "b4569426bf1cb3280fd879e34d251c503be11c26d2ab21d5b07863e1b3266a74",
+    "date": "Tuesday, Jun 17",
+    "title": "Bottom of The Barrel",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111336"
+  },
+  {
+    "id": "9264cb350b13caf0b781c943792fb8070da62a8e814548cb9c0e8751c3790846",
+    "date": "Wednesday, Jun 18",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111355"
+  },
+  {
+    "id": "b41d1d41db008d7ca4ccaff9a7087c98984b385ace792958f8b9b3a6ea6c2802",
+    "date": "Wednesday, Jun 18",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111345"
+  },
+  {
+    "id": "24c930a8977d9b68db577c1c15e8386ae83661bc60006fa1bf597234b6f6e6ac",
+    "date": "Wednesday, Jun 18",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111356"
+  },
+  {
+    "id": "1528416699aa6a181fbebe8ba38d70ebaca4dc3bd782d41d5155f871def20cf5",
+    "date": "Thursday, Jun 19",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111363"
+  },
+  {
+    "id": "2250cf320219bd0a8eb5e8839ea0fbeb314da7a8b1da2877fc290d86a6d7a63c",
+    "date": "Thursday, Jun 19",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111349"
+  },
+  {
+    "id": "5c0542e5626a30d885788273b7451d566682e2042a8ca57c199ff3a3d7ca1dbc",
+    "date": "Thursday, Jun 19",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111364"
+  },
+  {
+    "id": "d11fd6701aa70c128eeac7267b7efbd4818eb0c2af6a8b38cc384008f391e8e8",
+    "date": "Friday, Jun 20",
+    "title": "Andrew Dice Clay",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/108368"
+  },
+  {
+    "id": "081e111f2f213404f1150b46ef0b1455e6a2a4090f5ef0b831b0b75da4e2bb61",
+    "date": "Friday, Jun 20",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111371"
+  },
+  {
+    "id": "c36b7a279d6ef70dc02b6e6d73e56eb943065a72bf331c36e415927b84fe8fe5",
+    "date": "Friday, Jun 20",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111372"
+  },
+  {
+    "id": "260a60671fc1024f772c71d32f655383cef0683703654ee05a92f0d3b07da3a2",
+    "date": "Saturday, Jun 21",
+    "title": "Andrew Dice Clay",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108369"
+  },
+  {
+    "id": "5b83faf4971080294857d9fc6917a8788d98629a28a4ec4e6601ad9c1b0dd22e",
+    "date": "Saturday, Jun 21",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111379"
+  },
+  {
+    "id": "de8aff6c7f39e30d0cfbe04d02b7b4c0290d63b3e6fd5aeeb47ac20b90d6d0b1",
+    "date": "Saturday, Jun 21",
+    "title": "Andrew Dice Clay",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108370"
+  },
+  {
+    "id": "50f73cce74d9ab9a2bf1f4eda2862c5f4d88c7e0d508192325347a514f099716",
+    "date": "Saturday, Jun 21",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111380"
+  },
+  {
+    "id": "d01cf4c5264bd983f9ad00901016b40aeb05a72b7403a6975ccd50e2aa79cd42",
+    "date": "Sunday, Jun 22",
+    "title": "Comedy Mothership Showcase",
+    "time": "5:30 PM - 7:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111389"
+  },
+  {
+    "id": "8ba8a6644977ef75612305d662648ebbc44aa6c82d961a9d40af81a39e37caa7",
+    "date": "Sunday, Jun 22",
+    "title": "Andrew Dice Clay",
+    "time": "8:00 PM - 10:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108371"
+  },
+  {
+    "id": "9b06ddbbd57e1c247bfc90750fb3e82025e53efe96b3902763497aa6bbcb676c",
+    "date": "Sunday, Jun 22",
+    "title": "Comedy Mothership Showcase",
+    "time": "8:30 PM - 10:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111390"
+  },
+  {
+    "id": "911a81c63884375f8f817f6c6c9c65fcfc32e3836770f6a0f47576b58c37b2fc",
+    "date": "Monday, Jun 23",
+    "title": "Mothership Open Mic And Crew Show",
+    "time": "7:00 PM - 11:00 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111329"
+  },
+  {
+    "id": "d786cc546662ef8eb9a4c61ca9cadbea0219594524a1813df527afed57fe0cb0",
+    "date": "Monday, Jun 23",
+    "title": "The Best Of Comedy Mothership",
+    "time": "8:00 PM - 10:30 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111056"
+  },
+  {
+    "id": "f2f34878d9ad1f4e49a6f980102cb44f6a99f06f3c0d0687cf19ab4e4944947e",
+    "date": "Tuesday, Jun 24",
+    "title": "Bottom of The Barrel",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111337"
+  },
+  {
+    "id": "618a0fdf2ebe04ffa584de1ff9da59b227815d203e1c23d58111602dc96a8605",
+    "date": "Tuesday, Jun 24",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111342"
+  },
+  {
+    "id": "cdf89ac5de4a18eb99d1076899b55309530caea07f7eefd6670c072ca08db9a4",
+    "date": "Tuesday, Jun 24",
+    "title": "Bottom of The Barrel",
+    "time": "10:30 PM - 12:00 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111338"
+  },
+  {
+    "id": "2cc01d5d73e5036d5db64802f16d03e8d9c72f796d8355603cbf8f0700fe5c27",
+    "date": "Wednesday, Jun 25",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111357"
+  },
+  {
+    "id": "971fe8cde42c2f5954de42f4cbf1b8f33916cb77fd320e8614046aac55c96d64",
+    "date": "Wednesday, Jun 25",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111346"
+  },
+  {
+    "id": "004545eb492ae026f751fd51f23fce0b8e6321b4d1640e164dfe03f42ba793cf",
+    "date": "Wednesday, Jun 25",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111358"
+  },
+  {
+    "id": "82b2c38ba3a3646538d3c5208e07373d5ca92f32a7e97fba14ca28f20abcb525",
+    "date": "Thursday, Jun 26",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111365"
+  },
+  {
+    "id": "5facbb5d26221211431680cf0f7e175009d630b02a50e159412f57c792e9ff82",
+    "date": "Thursday, Jun 26",
+    "title": "The Best Of Comedy Mothership",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111350"
+  },
+  {
+    "id": "b1828d77a6ea782ab6e5e3abbc3fa92ce4a815add33ea0da71f289f618da7408",
+    "date": "Thursday, Jun 26",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111366"
+  },
+  {
+    "id": "64d8a10c1a7f445d265a00fe52eaecc806d896d55802165c0e43ca924d5e25b1",
+    "date": "Friday, Jun 27",
+    "title": "Rich Vos",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108719"
+  },
+  {
+    "id": "7bc9108bc9764302ead78b5550661dd202582cff601debc63d973dde010708d3",
+    "date": "Friday, Jun 27",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111373"
+  },
+  {
+    "id": "abc5498914b80a0884ba7598b6fa9ef21b9d19c2a9f3f4cdf5ab63d6bc08eb65",
+    "date": "Friday, Jun 27",
+    "title": "Rich Vos",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108720"
+  },
+  {
+    "id": "1e8e5ddf3dcc5372f7e66bfaba8bf481331979a9ce5518c9fede4afd70712d61",
+    "date": "Friday, Jun 27",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111374"
+  },
+  {
+    "id": "a5605632b7dce6f1730345ed4f995d6a567930de34f644fd1a81ffc901e5fa1e",
+    "date": "Saturday, Jun 28",
+    "title": "Rich Vos",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108721"
+  },
+  {
+    "id": "f37f0606690ae29e6d074e69dd048411513f6ce163e34abbd167340451c49540",
+    "date": "Saturday, Jun 28",
+    "title": "Comedy Mothership Showcase",
+    "time": "7:30 PM - 9:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111381"
+  },
+  {
+    "id": "3497c2376a2ec01208bf40dc7a76b06a3d1df55daec07c0e2f12b479c3021d32",
+    "date": "Saturday, Jun 28",
+    "title": "Rich Vos",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108722"
+  },
+  {
+    "id": "93aea27b8c61899e10c55c713a8e78c35a943e2d81abc33127f00a27a825bd10",
+    "date": "Saturday, Jun 28",
+    "title": "Comedy Mothership Showcase",
+    "time": "10:30 PM - 12:30 AM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111382"
+  },
+  {
+    "id": "b474659acb7d0f43bc5dbe24b6659258a12deb97713bbf5f5d8fbf28ab590f04",
+    "date": "Sunday, Jun 29",
+    "title": "Comedy Mothership Showcase",
+    "time": "5:30 PM - 7:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111391"
+  },
+  {
+    "id": "a545e4c9f48c8cce18743943458f2f9b4801f71d3b17d12aba1f8db9bf8cdf40",
+    "date": "Sunday, Jun 29",
+    "title": "Rich Vos",
+    "time": "8:00 PM - 10:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108723"
+  },
+  {
+    "id": "de0d6ff9137a351f7649b97a154c5bde4315b5de698e76f6254b2be2e62470b5",
+    "date": "Sunday, Jun 29",
+    "title": "Comedy Mothership Showcase",
+    "time": "8:30 PM - 10:30 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111392"
+  },
+  {
+    "id": "1dafc44832dcefe5f27cf8464223b1d80889a41af22e766876f6ea1a7142fd63",
+    "date": "Monday, Jun 30",
+    "title": "Mothership Open Mic And Crew Show",
+    "time": "7:00 PM - 11:00 PM",
+    "location": "LITTLE BOY",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111330"
+  },
+  {
+    "id": "e372b1c0abb9347fd92a1ebfe607d68f0b0ff3f49b63651a1fefb7c6d37d6e85",
+    "date": "Monday, Jun 30",
+    "title": "Kill Tony",
+    "time": "8:00 PM - 10:30 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "In order to sign-up for the chance to perform on Kill Tony, you must have a valid form of photo ID and 60 seconds of pre...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/111049"
+  },
+  {
+    "id": "405d3b5edc53701ea151cd840474a1473177e2d5c843fe7f1d51e7adfc312aed",
+    "date": "Friday, Jul 4",
+    "title": "Greg Fitzsimmons",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108724"
+  },
+  {
+    "id": "072842b52e44e655671133e2d7dad92da48148bd3660161badfe29bdd7eebd8d",
+    "date": "Friday, Jul 4",
+    "title": "Greg Fitzsimmons",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108725"
+  },
+  {
+    "id": "8bb9205b54a6779f59880adbadfea8c255b3029c9f03e14780e6a7f454098304",
+    "date": "Saturday, Jul 5",
+    "title": "Greg Fitzsimmons",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108726"
+  },
+  {
+    "id": "ac5e5d416baa1446e10764a3a304c07e8a10f0b3c17cdfaeec4d8e6a065978f5",
+    "date": "Saturday, Jul 5",
+    "title": "Greg Fitzsimmons",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108727"
+  },
+  {
+    "id": "451c6b8f5497410a421b343c28acb7cdad1f2278d3b36db46b6c3dcd31461ab6",
+    "date": "Sunday, Jul 6",
+    "title": "Greg Fitzsimmons",
+    "time": "8:00 PM - 10:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108728"
+  },
+  {
+    "id": "c8dd16323f22a6a38e1c94ca84b65c5c580b560cf28df6fcfa2aacc784fdb3bb",
+    "date": "Monday, Jul 7",
+    "title": "Kill Tony",
+    "time": "8:00 PM - 10:30 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "In order to sign-up for the chance to perform on Kill Tony, you must have a valid form of photo ID and 60 seconds of pre...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/111050"
+  },
+  {
+    "id": "890a8f5d492dff09a0de709efdd295673401d41973fd6bf0adc009d199a23979",
+    "date": "Friday, Jul 11",
+    "title": "Jeff Dye",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108740"
+  },
+  {
+    "id": "20afe8685217fdafd7b2e1dc6501847d2984f8805a54768a1d5b8a3f88dc8f7d",
+    "date": "Friday, Jul 11",
+    "title": "Jeff Dye",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108741"
+  },
+  {
+    "id": "8a917fe9673ddbae9548871147ad79abdaa8abd12840acd56ee1f51a7435fdd8",
+    "date": "Saturday, Jul 12",
+    "title": "Jeff Dye",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108742"
+  },
+  {
+    "id": "390b6fe75c043e6c85e9fd533b56a3e53fe22fb8d69a0033eac333d7de6f003f",
+    "date": "Saturday, Jul 12",
+    "title": "Jeff Dye",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108743"
+  },
+  {
+    "id": "e30e8dfb4cc77b5781963b4619ffe9e102dd2405526c6c7146ab68c80d54a74d",
+    "date": "Sunday, Jul 13",
+    "title": "Jeff Dye",
+    "time": "8:00 PM - 10:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108744"
+  },
+  {
+    "id": "5bda658b35a2ec85838a8905ce51900658889ebf38950d4d5581dd23d354db0c",
+    "date": "Monday, Jul 14",
+    "title": "Kill Tony",
+    "time": "8:00 PM - 10:30 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "In order to sign-up for the chance to perform on Kill Tony, you must have a valid form of photo ID and 60 seconds of pre...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/111051"
+  },
+  {
+    "id": "bff3520692f2e8096093bc7f6ac8a1753d1c5d984ebd416c312bfccad14b9217",
+    "date": "Friday, Jul 18",
+    "title": "Ari Shaffir",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/108755"
+  },
+  {
+    "id": "ad7bab6fb4bde60b29f866eed00d2cc74982b4ca0b4d9ce39bc1b8585aa97939",
+    "date": "Friday, Jul 18",
+    "title": "Ari Shaffir",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108756"
+  },
+  {
+    "id": "e63c2a494c51be2988e6900721fb72b73a06299c99f3a076fb8174e419bfbc1f",
+    "date": "Saturday, Jul 19",
+    "title": "Ari Shaffir",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/108757"
+  },
+  {
+    "id": "ef0ec54da310e2c9543264c2c2966ee0e6f783cee0bd195a5c928cb9753aa77a",
+    "date": "Saturday, Jul 19",
+    "title": "Ari Shaffir",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108758"
+  },
+  {
+    "id": "dbf73c4f94a9f560bc2d50e1db6ce28a8653671c16dfd4a9a2472f4b7bec91cf",
+    "date": "Sunday, Jul 20",
+    "title": "Ari Shaffir",
+    "time": "8:00 PM - 10:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108759"
+  },
+  {
+    "id": "bc41825026a68ddddb2101d2f665a4cea63a636bb16705c63d7579fe2023951b",
+    "date": "Monday, Jul 21",
+    "title": "Kill Tony",
+    "time": "8:00 PM - 10:30 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "In order to sign-up for the chance to perform on Kill Tony, you must have a valid form of photo ID and 60 seconds of pre...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/111052"
+  },
+  {
+    "id": "3b26bb5791034b85492b59e42a19acd21c60e8ddf59e90e5eac35645efd0a350",
+    "date": "Friday, Jul 25",
+    "title": "Tony Rock",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108745"
+  },
+  {
+    "id": "6e624be3c42dab4a61bae5bbfe13cfd044603743b318caf67628d42f647f66e2",
+    "date": "Friday, Jul 25",
+    "title": "Tony Rock",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108746"
+  },
+  {
+    "id": "5423685052d910f59ac253e417d95ae5afa7acd30b66327f7af530500699f62d",
+    "date": "Saturday, Jul 26",
+    "title": "Tony Rock",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108747"
+  },
+  {
+    "id": "c08dd6a1ab492baeeed2d9650629fc73592c51467eb61e719480cc50a777d771",
+    "date": "Saturday, Jul 26",
+    "title": "Tony Rock",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108748"
+  },
+  {
+    "id": "84aebf159f34d16c4f58d88ccf30ecc74c603a0c3f3b8bf10f9154d43cc4a1ae",
+    "date": "Sunday, Jul 27",
+    "title": "Tony Rock",
+    "time": "8:00 PM - 10:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108749"
+  },
+  {
+    "id": "2f04bc94a9758e77695d6ee3972d9b8461fa87ae3142adb30f316b82b546b64d",
+    "date": "Monday, Jul 28",
+    "title": "Kill Tony",
+    "time": "8:00 PM - 10:30 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "In order to sign-up for the chance to perform on Kill Tony, you must have a valid form of photo ID and 60 seconds of pre...Show Full Event Description",
+    "sold_out": true,
+    "link": "https://comedymothership.com/shows/111053"
+  },
+  {
+    "id": "d9ba2bf05b37cd5c52816ee97c6a50b04e2afd7ae5e72147d3005668273eb851",
+    "date": "Friday, Aug 1",
+    "title": "Jordan Jensen",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108750"
+  },
+  {
+    "id": "3b99b671c51c1ae907e78ba9f1418cd0446927bd9ef0a4ff163aa6aabbcdf272",
+    "date": "Friday, Aug 1",
+    "title": "Jordan Jensen",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108751"
+  },
+  {
+    "id": "0265478c01fafc24048ad34db61c29957c33f39007cdd14a448bef9795973711",
+    "date": "Saturday, Aug 2",
+    "title": "Jordan Jensen",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108752"
+  },
+  {
+    "id": "f71bf946035da0dab7226842a16e74a01ec2eda9249a85a221e691ea57dd3cce",
+    "date": "Saturday, Aug 2",
+    "title": "Jordan Jensen",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108753"
+  },
+  {
+    "id": "7bf5e5461288ab78cc383fe66417d7a94184d92fa547689a5fe059fdbbe3eef9",
+    "date": "Sunday, Aug 3",
+    "title": "Jordan Jensen",
+    "time": "8:00 PM - 10:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/108754"
+  },
+  {
+    "id": "a56a8599163f66b3ed7748ad4b4e840ee1072f5c6f88979e6918df3cd964d331",
+    "date": "Friday, Aug 8",
+    "title": "Donnell Rawlings",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111832"
+  },
+  {
+    "id": "860b06e6bbb96e900811e904ecccfc4f20a13ae22a763bf7d35074b1822dfd0f",
+    "date": "Friday, Aug 8",
+    "title": "Donnell Rawlings",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111833"
+  },
+  {
+    "id": "214b14b490ee429c8cb11f3910bc8fe8abdf1f6981977c5a31fb32316d092cfa",
+    "date": "Saturday, Aug 9",
+    "title": "Donnell Rawlings",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111834"
+  },
+  {
+    "id": "ea94073b73b09d1fa301ddb49d6f0854c2c218566074703a25033668c74d141b",
+    "date": "Saturday, Aug 9",
+    "title": "Donnell Rawlings",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111835"
+  },
+  {
+    "id": "2d1a758594aac8ef7b95efb602096dcac49ea4e17ddd67c0d232fd3849beeb4c",
+    "date": "Sunday, Aug 10",
+    "title": "Donnell Rawlings",
+    "time": "8:00 PM - 10:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111836"
+  },
+  {
+    "id": "9306cf0c79d986e3a711c5e2153fcbfbc754950fad6394b4b9dcd9ff3eda087a",
+    "date": "Friday, Aug 15",
+    "title": "Alonzo Bodden",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111837"
+  },
+  {
+    "id": "0b4bad1e210c576132903b4c762884f2fde957cc6b00b912cc76136158feb8ec",
+    "date": "Friday, Aug 15",
+    "title": "Alonzo Bodden",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111838"
+  },
+  {
+    "id": "ff32407b3c6f972ce7da2cb1dc694901d1b3b58d54b41e12e08b17c11a08b5c5",
+    "date": "Saturday, Aug 16",
+    "title": "Alonzo Bodden",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111839"
+  },
+  {
+    "id": "98f3df2dcdf34bdf41906ad8f7395a3294865cc3c3f299834df246f2ef38a265",
+    "date": "Saturday, Aug 16",
+    "title": "Alonzo Bodden",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111840"
+  },
+  {
+    "id": "4b9aa5c4640d841ff5922150b8fcf5ca21d9dc75b478b34344d1193c5259cdc8",
+    "date": "Sunday, Aug 17",
+    "title": "Alonzo Bodden",
+    "time": "8:00 PM - 10:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111841"
+  },
+  {
+    "id": "6d4d239ed1640d89d35d98c5298e70c11f857907e75d2726fdf0965aa2c55b41",
+    "date": "Friday, Aug 22",
+    "title": "Dave Landau",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111842"
+  },
+  {
+    "id": "9898bdde3ead9ea87e95035742d9c9a98aaeba8e7e6fbc34efda9d7cf4b140fe",
+    "date": "Friday, Aug 22",
+    "title": "Dave Landau",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111843"
+  },
+  {
+    "id": "193731d13f3a6b325be9e6b31f8cd32ad28d05adad4e3b2b0ec6c1f0ae5b251f",
+    "date": "Saturday, Aug 23",
+    "title": "Dave Landau",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111844"
+  },
+  {
+    "id": "2e9fc5d2250b48e3ef558c50f884f461510716186d126d9c3c0dc158ac28c841",
+    "date": "Saturday, Aug 23",
+    "title": "Dave Landau",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111845"
+  },
+  {
+    "id": "98aadc5ef026207f81e5ab1809dcb2477f6807506249cedde3c19c6a9775cf24",
+    "date": "Sunday, Aug 24",
+    "title": "Dave Landau",
+    "time": "8:00 PM - 10:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111846"
+  },
+  {
+    "id": "16480064de6b6bd67639b554b8e7434607d80cbcbffeafcb586b278cb5d90c3e",
+    "date": "Friday, Aug 29",
+    "title": "Adam Ray",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111847"
+  },
+  {
+    "id": "0cc9426a22191e26ece62facf61d28a34967af655868b69691551a286502f12a",
+    "date": "Friday, Aug 29",
+    "title": "Adam Ray",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111848"
+  },
+  {
+    "id": "489030de15d476eb8626101a106d0542a2b5ac82180b207dd5d4f1cad76b878d",
+    "date": "Saturday, Aug 30",
+    "title": "Adam Ray",
+    "time": "7:00 PM - 9:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111849"
+  },
+  {
+    "id": "fb2463ee12a5302e1de94fd915fa6dd522c2547bcfc8388613356dd13560190c",
+    "date": "Saturday, Aug 30",
+    "title": "Adam Ray",
+    "time": "10:00 PM - 12:00 AM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111850"
+  },
+  {
+    "id": "a87263ba7a940d306b707d23d7a9776709c4dada5d69528c4b6235d1fb376bd0",
+    "date": "Sunday, Aug 31",
+    "title": "Adam Ray",
+    "time": "8:00 PM - 10:00 PM",
+    "location": "FAT MAN",
+    "ticket_types": [
+      "General Admission",
+      "Booth Seating"
+    ],
+    "description_snippet": "ATTENTION: 100% of tickets redemptions require the ORIGINAL purchaser to be present, as verified by government issued ID...Show Full Event Description",
+    "sold_out": false,
+    "link": "https://comedymothership.com/shows/111851"
+  }
+]
