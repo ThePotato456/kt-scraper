@@ -3,12 +3,13 @@ from bs4 import BeautifulSoup
 import hashlib
 import json
 import time
+import os
 from datetime import datetime
 
 # --- Configuration ---
 EVENTS_URL = "https://comedymothership.com/shows"
 EVENTS_FILE = "events.json"
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1371659254452326420/IkZiyug_8uj8SHtY0idgvEY-Hsfp8cQnzwz0ZHfW0SJrIX-vo7cSAdkj8OAW9Uml3eao"
+DISCORD_WEBHOOK_URL = open("discord_webhook.txt").read().strip() if os.path.exists("discord_webhook.txt") else None
 
 # --- Core Scraper ---
 def fetch_events():
@@ -126,6 +127,11 @@ def send_no_events_alert():
 
 # --- Main Execution ---
 def main():
+    if not DISCORD_WEBHOOK_URL:
+        print("⚠️ Discord webhook URL not set. Please create discord_webhook.txt and put the link in there.")
+        return
+
+
     print(f"[{datetime.now()}] Starting Comedy Mothership event check...")
 
     current_events = fetch_events()
