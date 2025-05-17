@@ -31,6 +31,15 @@ or like this to have it save log output to log.txt
 ```bash
 ./run.sh
 ```
+If you want to have the script run at midnight every night, you can use this crontab configuration.
+Open crontab configuration and add this configuration to the bottom; make sure to grab both lines
+```bash
+crontab -e
+
+TZ=America/Chicago
+0 0 * * * cd /home/user/vscode_projects/kt-scraper/ && ./.venv/bin/python track_shows.py >> log.txt 2>&1
+```
+
 
 ## License
 
