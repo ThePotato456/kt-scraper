@@ -9,7 +9,7 @@ from datetime import datetime
 # --- Configuration ---
 EVENTS_URL = "https://comedymothership.com/shows"
 EVENTS_FILE = "events.json"
-DISCORD_WEBHOOK_URL = open("discord_webhook.txt").read().strip() if os.path.exists("discord_webhook.txt") else None
+DISCORD_WEBHOOK_URL = open("/home/user/vscode_projects/kt-scraper/discord_webhook.txt").read().strip() if os.path.exists("/home/user/vscode_projects/kt-scraper/discord_webhook.txt") else None
 
 # --- Core Scraper ---
 def fetch_events():
